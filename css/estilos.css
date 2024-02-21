@@ -1,0 +1,29 @@
+*{
+    margin: 0%; /*colocar un porcentaje de margen*/
+    padding: 5px; /*colocar padding*/
+    background-color: rgb(216, 234, 235); /*colocar un color de fondo*/
+
+}
+
+h1{
+    color: rgba(40, 84, 121, 0.664); /*dar un color*/
+    text-align: center; /*alinear texto al centro*/
+}
+h2{
+    color: #ffffff; /*dar un color al texto*/
+    background-color: rgb(31, 73, 75); /*dar un color de fondo al texto*/
+}
+
+strong{
+    color: cadetblue; /*dar un color al texto*/
+}
+
+em{
+    color: darkcyan; /*dar un color al texto*/
+}
+
+p{
+    text-align: justify; /*justificar texto*/
+    text-indent: 30px; /*agregar una sangría al texto*/
+    font-size: 20px; /*dar un tamaño de fuente al texto*/
+}
